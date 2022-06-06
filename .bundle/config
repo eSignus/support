@@ -1,0 +1,4 @@
+---
+BUNDLE_FORCE_RUBY_PLATFORM: "true"
+BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=/usr/local/Cellar/openssl@1.1/1.1.1h"
+BUNDLE_PATH: "vendor/bundle"
