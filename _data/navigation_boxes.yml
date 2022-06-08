@@ -1,16 +1,16 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
+- title: Get started!
+  desc: Get started with HASHWallet
   icon: cog
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
+- title: HASHWallet LINK
+  desc: Discover your new HASHWallet LINK
   icon: settings
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
+- title: Signing Transactions
+  desc: Learn how to sign transactions with your HASHWallet LINK
   icon: code
   doc: customize

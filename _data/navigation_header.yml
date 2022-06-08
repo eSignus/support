@@ -1,34 +1,27 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
-    url: /
-
   - title: Docs
-    url: /docs/installation/
+    url: /docs/welcome/
 
-  - title: Blog
-    url: /blog/
+  - title: FAQs
+    url: /faqs/
 
-  - title: Changelogs
+  - title: Roadmap
     dropdown:
 
-      - title: Timeline Style
-        url: /changelog-timeline/
+      - title: HASHWallet
+        url: /hashwallet-roadmap/
 
-      - title: Post Style
-        url: /changelog-posts/
+      - title: HASHWallet Manager
+        url: /hwmanager-changelog/
 
 
 # Navbar right menu navigation links
 
 right:
 
-  - title: Changelog
-    url: /changelog-timeline/
-    button: primary-outline
-
-  - title: Contact
+  - title: Contact & Support
     url: /contact/
     button: success
 

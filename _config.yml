@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              HASHWallet
+title:              HASHWallet Docs
 description:        Documentation.
 lang:               en
 
@@ -27,51 +27,55 @@ navbar:
   
 # Default author settings
 author:
-    name:           Pete Seth
-    title:          Lead Developer  
-    avatar:         avatar-tom.png
+    name:           Masaki Hatomi
+    title:          Frontend & Support  
+    avatar:         avatar-masaki.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    john:
-      name:         John Brown
-      title:        Support     
-      avatar:       avatar-john.png
-    evan:
-      name:         Evan Wells
-      title:        Support    
-      avatar:       avatar-evan.png
-    sara:
-      name:         Sara Galen
-      title:        Lead Developer     
-      avatar:       avatar-sara.png
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer     
-      avatar:       avatar-alex.png
     daniel:
-      name:         Daniel Shultz
-      title:        Developer      
-      avatar:       avatar-daniel.png
-    tom:
-      name:         Tom Farrell
-      title:        Developer     
-      avatar:       avatar-tom.png
+      name:         Daniel Hernández
+      title:        Co-Founder & CEO
+      avatar:       avatar-dani.png
+    joseramon:
+      name:         José Ramón Sendra
+      title:        Co-Founder & CTO
+      avatar:       avatar-joseramon.png
+    sebastian:
+      name:         Sebastián Unda
+      title:        Lead UX & Design     
+      avatar:       avatar-sebas.png
+    tere:
+      name:         Teresa Bolaños
+      title:        Design design     
+      avatar:       avatar-teresa.png
+    claudio:
+      name:         Claudio Molina
+      title:        Lead developer     
+      avatar:       avatar-claudio.png
+    sergio:
+      name:         Sergio García
+      title:        Backend developer      
+      avatar:       avatar-sergio.png
+    masaki:
+      name:         Masaki Hatomi
+      title:        Frontend & Support
+      avatar:       avatar-masaki.png
 
 # Social icons displayed in footer
 social:
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
-    linkedin:
+    instagram:
+    linkedin:       https://www.linkedin.com/company/esignus
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:
+    vimeo:
     youtube:
 
 # Share button
@@ -83,7 +87,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+    copyright:      HASHWallet is proudly made in Spain by <a href="https://esignus.com/">eSignus</a>.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
