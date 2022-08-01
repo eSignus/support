@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Adding wallets",
+      "category" : "",
+      "tags"     : "quickstart, installation, wallets",
+      "url"      : "/docs/addwallets/",
+      "date"     : "2022-07-22 10:05:06 +0100"
+    } ,
+  
+    {
       "title"    : "Adding alerts to content",
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/alerts/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/analytics/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/boxes/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/changelog/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/comments/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/contact/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -53,7 +61,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/cta/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -61,7 +69,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/customize/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -69,7 +77,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/development/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -77,7 +85,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/docs/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -85,7 +93,7 @@
       "category" : "",
       "tags"     : "features, featured",
       "url"      : "/docs/faq/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -93,7 +101,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/featured/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -101,7 +109,15 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/footer/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
+    } ,
+  
+    {
+      "title"    : "Glossary",
+      "category" : "",
+      "tags"     : "help",
+      "url"      : "/docs/glossary/",
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -109,7 +125,15 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/hero/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
+    } ,
+  
+    {
+      "title"    : "Installing HWManger in your device",
+      "category" : "",
+      "tags"     : "settings",
+      "url"      : "/docs/install/",
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -117,7 +141,7 @@
       "category" : "",
       "tags"     : "features, featured",
       "url"      : "/docs/media/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -125,7 +149,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/navigation/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -133,7 +157,15 @@
       "category" : "",
       "tags"     : "othertag",
       "url"      : "/docs/pages/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
+    } ,
+  
+    {
+      "title"    : "Portfolio structure backup",
+      "category" : "",
+      "tags"     : "security, portfolio, wallets",
+      "url"      : "/docs/portfoliobackup/",
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -141,7 +173,15 @@
       "category" : "",
       "tags"     : "featured",
       "url"      : "/docs/posts/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
+    } ,
+  
+    {
+      "title"    : "Settings",
+      "category" : "",
+      "tags"     : "customize",
+      "url"      : "/docs/settings/",
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -149,7 +189,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/setup/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -157,7 +197,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/sources/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -165,7 +205,7 @@
       "category" : "",
       "tags"     : "help, customize",
       "url"      : "/docs/support/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -173,7 +213,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/team/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -181,7 +221,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/toc/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -189,7 +229,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/translation/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -197,7 +237,7 @@
       "category" : "",
       "tags"     : "features, featured",
       "url"      : "/docs/videos/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } ,
   
     {
@@ -205,7 +245,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/welcome/",
-      "date"     : "2022-06-07 15:41:19 +0100"
+      "date"     : "2022-07-22 10:05:06 +0100"
     } 
   
 ]

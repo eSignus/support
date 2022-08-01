@@ -3,6 +3,8 @@ title: Welcome to HASHWallet!
 subtitle: This document covers the setup and options of theme feature described in the doc title
 ---
 
+Creating your eSignus Backup Center Account
+
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ```bash

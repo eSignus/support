@@ -1,7 +1,10 @@
 - title: Getting Started
   docs:
   - welcome
+  - install
   - setup
+  - addwallets
+  - settings
   - navigation
   - footer
   - posts
@@ -9,8 +12,9 @@
   - comments
   - analytics
 
-- title: Theme Features
+- title: Security
   docs:
+  - portfoliobackup
   - hero
   - boxes
   - featured
@@ -34,3 +38,4 @@
 - title: Help
   docs:
   - support
+  - glossary
