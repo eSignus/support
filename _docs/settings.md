@@ -1,19 +1,37 @@
 ---
-title: Settings
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [customize]
-author: evan
+title: An overview of the HWManager settings
+subtitle: This document covers the setup and options of theme feature described in the doc title
+author: sara
+tags: [setup]
 ---
 
-To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
+### Site and author details
+Add your site and author details in `_config.yml`:
 
-```scss
-$global-primary-background:                   #05c896;
+```yaml
+title:              Docs
+description:        Documentation Jekyll theme.
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://docs.jekyll.plus"
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:      
+
+# Default author settings
+author:
+    name:           Pete Seth
+    title:          Lead Developer  
+    avatar:         avatar-tom.png
 ```
 
-Further style customisation can be done in the following files:
-```
-/_sass/theme/mixins.scss
-/_sass/theme/variables.scss
-/assets/css/main.scss
-```
+### Update favicon
+
+You can find the current favicon (favicon.png) inside the theme `/uploads/` directory, just replace it with your new favicon.

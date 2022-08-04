@@ -5,15 +5,7 @@
       "category" : "",
       "tags"     : "quickstart, installation, wallets",
       "url"      : "/docs/addwallets/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Adding alerts to content",
-      "category" : "",
-      "tags"     : "features",
-      "url"      : "/docs/alerts/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -21,15 +13,31 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/analytics/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Category boxes section",
+      "title"    : "App Settings",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/docs/boxes/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "url"      : "/docs/app_settings/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Assets management",
+      "category" : "",
+      "tags"     : "features, featured",
+      "url"      : "/docs/assets_management/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Card maintenance",
+      "category" : "",
+      "tags"     : "features",
+      "url"      : "/docs/cardmaintenance/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/changelog/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -45,23 +53,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/comments/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Contact form (via FormSpree)",
+      "title"    : "Contact &amp; Support",
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/contact/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Call to action section",
-      "category" : "",
-      "tags"     : "features",
-      "url"      : "/docs/cta/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -69,15 +69,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/customize/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Development",
-      "category" : "",
-      "tags"     : "customize",
-      "url"      : "/docs/development/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -85,31 +77,31 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/docs/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Frequently asked questions section",
+      "title"    : "Duplication process",
       "category" : "",
       "tags"     : "features, featured",
+      "url"      : "/docs/duplication_process/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "The eSignus backup center",
+      "category" : "",
+      "tags"     : "help, customize",
+      "url"      : "/docs/esignus_backup_center/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Frequently asked questions",
+      "category" : "",
+      "tags"     : "othertag",
       "url"      : "/docs/faq/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Fearured docs section",
-      "category" : "",
-      "tags"     : "features",
-      "url"      : "/docs/featured/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Footer options",
-      "category" : "",
-      "tags"     : "setup",
-      "url"      : "/docs/footer/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -117,15 +109,15 @@
       "category" : "",
       "tags"     : "help",
       "url"      : "/docs/glossary/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Hero page header",
+      "title"    : "Hardware wallet description",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/docs/hero/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "url"      : "/docs/hardwarewalletdescription/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -133,31 +125,31 @@
       "category" : "",
       "tags"     : "settings",
       "url"      : "/docs/install/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Adding media to post and doc content",
+      "title"    : "NFC antenna",
       "category" : "",
-      "tags"     : "features, featured",
-      "url"      : "/docs/media/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "tags"     : "features",
+      "url"      : "/docs/nfcantenna/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Navigation bar",
+      "title"    : "Orders &amp; Shipping",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/docs/navigation/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "url"      : "/docs/orders_shipping/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Updating your billing credit card",
+      "title"    : "Portfolio view",
       "category" : "",
-      "tags"     : "othertag",
-      "url"      : "/docs/pages/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "tags"     : "features, featured",
+      "url"      : "/docs/portfolio_view/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -165,7 +157,7 @@
       "category" : "",
       "tags"     : "security, portfolio, wallets",
       "url"      : "/docs/portfoliobackup/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -173,23 +165,39 @@
       "category" : "",
       "tags"     : "featured",
       "url"      : "/docs/posts/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Settings",
+      "title"    : "Privacy",
       "category" : "",
       "tags"     : "customize",
-      "url"      : "/docs/settings/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "url"      : "/docs/privacy/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Basic theme setup",
+      "title"    : "Receiving and sending Cryptocurrency",
+      "category" : "",
+      "tags"     : "customize",
+      "url"      : "/docs/receivingsending/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Scanning your first HASHWallet LINK",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/docs/scanning/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "An overview of the HWManager settings",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/docs/setup/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "url"      : "/docs/settings/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -197,23 +205,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/sources/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Contacting support",
-      "category" : "",
-      "tags"     : "help, customize",
-      "url"      : "/docs/support/",
-      "date"     : "2022-08-01 10:12:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Team members section",
-      "category" : "",
-      "tags"     : "features",
-      "url"      : "/docs/team/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -221,7 +213,15 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/toc/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Trade",
+      "category" : "",
+      "tags"     : "features",
+      "url"      : "/docs/trade/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -229,15 +229,23 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/translation/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
-      "title"    : "Video lightbox boxes section",
+      "title"    : "Unlock and access",
       "category" : "",
-      "tags"     : "features, featured",
-      "url"      : "/docs/videos/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "tags"     : "features",
+      "url"      : "/docs/unlock_and_access/",
+      "date"     : "2022-08-04 17:22:10 +0100"
+    } ,
+  
+    {
+      "title"    : "Warranty",
+      "category" : "",
+      "tags"     : "setup",
+      "url"      : "/docs/warranty/",
+      "date"     : "2022-08-04 17:22:10 +0100"
     } ,
   
     {
@@ -245,7 +253,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/welcome/",
-      "date"     : "2022-08-01 10:12:00 +0100"
+      "date"     : "2022-08-04 17:22:10 +0100"
     } 
   
 ]

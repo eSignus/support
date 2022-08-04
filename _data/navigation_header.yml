@@ -7,14 +7,14 @@ left:
   - title: FAQs
     url: /faqs/
 
-  - title: Roadmap
-    dropdown:
+  # - title: Roadmap
+  #   dropdown:
 
-      - title: HASHWallet
-        url: /hashwallet-roadmap/
+  #     - title: HASHWallet
+  #       url: /hashwallet-roadmap/
 
-      - title: HASHWallet Manager
-        url: /hwmanager-changelog/
+  #     - title: HASHWallet Manager
+  #       url: /hwmanager-changelog/
 
 
 # Navbar right menu navigation links

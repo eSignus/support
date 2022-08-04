@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Assets management | HASHWallet Docs</title>
+<meta name="generator" content="Jekyll v3.4.1" />
+<meta property="og:title" content="Assets management" />
+<meta name="author" content="alex" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Create FAQ post in _faqs folder (categories are optional): --- title: Do you provide customer support? categories: [presale] ---" />
+<meta property="og:description" content="Create FAQ post in _faqs folder (categories are optional): --- title: Do you provide customer support? categories: [presale] ---" />
+<link rel="canonical" href="http://localhost:4000/docs/assets_management/" />
+<meta property="og:url" content="http://localhost:4000/docs/assets_management/" />
+<meta property="og:site_name" content="HASHWallet Docs" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-08-04T17:22:10+01:00" />
+<script type="application/ld+json">
+{"headline":"Assets management","dateModified":"2022-08-04T17:22:10+01:00","datePublished":"2022-08-04T17:22:10+01:00","url":"http://localhost:4000/docs/assets_management/","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/docs/assets_management/"},"author":{"@type":"Person","name":"alex"},"description":"Create FAQ post in _faqs folder (categories are optional): --- title: Do you provide customer support? categories: [presale] ---","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta property="og:image" content="http://localhost:4000/uploads/"/>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="/uploads/favicon.png" >
+  <link rel="alternate" type="application/rss+xml" title="HASHWallet Docs" href="/feed.xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;500;700&family=Noto+Sans:wght@300;500&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <script src="/assets/js/main.js"></script>
+  
+    <script>
+function searchResults(form) {
+
+    var currentItem = null;
+    var search = document.getElementById(form);
+    var results = document.getElementById(form + "-results");
+    var toggle = document.getElementById(form + "-toggle");
+
+    function removeActive() {
+        for (i = 0; i < results.children.length; i++) {
+            results.children[i].classList.remove("uk-background-muted");
+        }
+    }
+
+    // Detect all clicks on the document
+    document.addEventListener("click", function(event) {
+
+        var isClickSearch = false;
+        var isClickResults = false;
+        var isClickSearchToggle = false;
+
+        if (search !== null) {
+            isClickSearch = search.contains(event.target);
+        }
+
+        if (results !== null) {
+            isClickResults = results.contains(event.target);
+        }
+
+        if (toggle !== null) {
+            isClickSearchToggle = toggle.contains(event.target);
+        }
+
+        if (isClickSearch || isClickSearchToggle) {
+            results.style.display = "block";
+        }        
+
+        if (!isClickResults && !isClickSearch && !isClickSearchToggle) {
+            results.style.display = "none";
+        }        
+        
+    });    
+
+    results.addEventListener("mouseover", function(event) {
+
+        removeActive();
+        event.target.parentElement.classList.add("uk-background-muted");
+        currentItem = null;
+
+    });
+
+    results.addEventListener("mouseout", function(event) {
+        event.target.parentElement.classList.remove("uk-background-muted");
+    });
+
+
+    search.addEventListener("keyup", function(event) {
+
+        var resultItems = results.children;
+        var resultCount = results.children.length;
+                                
+        if (event.keyCode === 40) {
+
+            if (currentItem < (resultCount - 1)) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem++;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+            
+        } else if (event.keyCode === 38) {
+
+            if (currentItem > 0) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem--;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+
+        } else if (event.keyCode === 13) {
+
+            resultItems[currentItem].children[0].click();
+
+        }
+
+    });
+
+}
+</script>
+  
+  
+  
+</head>
+
+    <body>
+
+    
+        <div data-uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent; top: 200">
+    <nav class="uk-navbar-container">
+        <div class="uk-container">
+            <div data-uk-navbar>
+                <div class="uk-navbar-left">
+                    <a class="uk-navbar-item uk-logo uk-visible@m" href="/">HASHWallet Docs</a>
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Docs</span></a>
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/docs/welcome/" >Docs</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/faqs/" >FAQs</a></li>
+                                                                                                        
+                                
+                            
+                        
+                    </ul>
+                </div>
+                <div class="uk-navbar-center uk-hidden@m">
+                    <a class="uk-navbar-item uk-logo" href="/">HASHWallet Docs</a>
+                </div>
+                <div class="uk-navbar-right">
+                    
+                        
+                            <div>
+                                <a id="search-navbar-toggle" class="uk-navbar-toggle" uk-search-icon href="#"></a>
+                                <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
+                                    <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
+                                        <input id="search-navbar" class="uk-search-input" type="search" placeholder="Search for answers" autofocus autocomplete="off">
+                                    </form>
+                                    <ul id="search-navbar-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                                </div>
+                            </div>
+                            <script>
+                            SimpleJekyllSearch({
+                                searchInput: document.getElementById('search-navbar'),
+                                resultsContainer: document.getElementById('search-navbar-results'),
+                                noResultsText: '<li class="no-results">No results found</li>',
+                                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                                json: "/search.json"
+                            });
+                            searchResults("search-navbar");
+                            </script>
+                        
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                            
+                            
+                            
+                                
+                                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-success" href="/contact/" >Contact & Support</a></div></li>
+                                
+                            
+                        
+                    </ul>
+
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
+                    
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+    
+
+    <div class="uk-section">
+    <div class="uk-container">
+        <div class="uk-grid-large" data-uk-grid>
+
+            <div class="sidebar-fixed-width uk-visible@m">
+                <div class="sidebar-docs uk-position-fixed uk-margin-top">
+                    
+                    <h5>Getting Started</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/welcome/">Welcome to HASHWallet!</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/install/">Installing HWManger in your device</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/scanning/">Scanning your first HASHWallet LINK</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/receivingsending/">Receiving and sending Cryptocurrency</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/settings/">An overview of the HWManager settings</a></li>
+                    
+                    </ul>
+                    
+                    <h5>HASHWallet Link Card</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/hardwarewalletdescription/">Hardware wallet description</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/nfcantenna/">NFC antenna</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/cardmaintenance/">Card maintenance</a></li>
+                    
+                    </ul>
+                    
+                    <h5>HW Manager App</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/unlock_and_access/">Unlock and access</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/portfolio_view/">Portfolio view</a></li>
+                    
+                      
+                      
+                      <li class="uk-active"><a href="/docs/assets_management/">Assets management</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/trade/">Trade</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/app_settings/">App Settings</a></li>
+                    
+                    </ul>
+                    
+                    <h5>Security & backup</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/esignus_backup_center/">The eSignus backup center</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/duplication_process/">Duplication process</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/privacy/">Privacy</a></li>
+                    
+                    </ul>
+                    
+                    <h5>Supported cryptocurrencies</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href=""></a></li>
+                    
+                    </ul>
+                    
+                    <h5>Shop</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/orders_shipping/">Orders & Shipping</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/warranty/">Warranty</a></li>
+                    
+                    </ul>
+                    
+                    <h5>Help</h5>
+                    <ul class="uk-nav uk-nav-default doc-nav">
+                    
+                      
+                      
+                      <li class=""><a href="/docs/glossary/">Glossary</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/contact/">Contact & Support</a></li>
+                    
+                      
+                      
+                      <li class=""><a href="/docs/faq/">Frequently asked questions</a></li>
+                    
+                    </ul>
+                    
+                </div>
+            </div>
+
+            <div class="uk-width-1-1 uk-width-expand@m">
+
+                <article class="uk-article">
+
+                    <h1 class="uk-article-title">Assets management</h1>
+
+                    <p class="uk-text-lead uk-text-muted">Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.</p>
+
+                    <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
+
+                    </div>
+
+                    <div class="article-content link-primary">
+                        <p>Create FAQ post in <code class="highlighter-rouge">_faqs</code> folder (categories are optional):</p>
+<div class="language-yml highlighter-rouge"><pre class="highlight"><code><span class="nn">---</span>
+<span class="s">title</span><span class="pi">:</span> <span class="s">Do you provide customer support?</span>
+<span class="s">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">presale</span><span class="pi">]</span>
+<span class="nn">---</span>
+</code></pre>
+</div>
+
+<p>To add the following to a page:</p>
+
+<div class="language-yaml highlighter-rouge"><pre class="highlight"><code><span class="pi">{</span><span class="err">%</span> <span class="nv">include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %</span><span class="pi">}</span>
+</code></pre>
+</div>
+
+<p>Specifying category is optional, if not defined all FAQ posts will be displayed. To display multiple FAQs at the same time without one collapsing when the other one is opened, add the <code class="highlighter-rouge">multiple="true"</code> attribute.</p>
+
+                    </div>
+
+                    
+
+                    <hr class="uk-margin-medium">
+
+                    
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    <div class="uk-margin-large-top paginate-post">
+        <div class="uk-child-width-expand@s uk-grid-large uk-pagi" data-uk-grid>
+            <div>
+                
+                  
+                  
+                  
+                    <h5>Portfolio view</h5>
+                    <div><a class="remove-underline hvr-back" href="/docs/portfolio_view/">&larr; Previous</a></div>
+                
+            </div>
+            <div>
+                
+                  
+                  
+                  
+                    <h5>Trade</h5>
+                    <div class="uk-text-right"><a class="remove-underline hvr-forward" href="/docs/trade/">Next &rarr;</a></div>
+                
+            </div>
+        </div>
+    </div>
+    
+
+
+                    <div class="uk-margin-large-top">
+    <h3>Related Docs</h3>
+
+    
+    
+    
+
+    <ul class="uk-list link-secondary">
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+        <li><a href="/docs/app_settings/">App Settings</a></li>
+        
+        
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+        <li><a href="/docs/cardmaintenance/">Card maintenance</a></li>
+        
+        
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+        <li><a href="/docs/duplication_process/">Duplication process</a></li>
+        
+        
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+        <li><a href="/docs/hardwarewalletdescription/">Hardware wallet description</a></li>
+        
+        
+            
+    </ul>
+</div>
+
+
+                    
+                </article>
+
+                <script>
+                    // Table of contents scroll to
+                    UIkit.scroll('#markdown-toc a', {
+                        duration: 400,
+                        offset: 120
+                    });
+                </script>
+
+            </div>
+
+    </div>
+</div>
+
+
+    <div id="offcanvas-docs" data-uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+
+        
+        <h5 class="uk-margin-top">Getting Started</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/welcome/">Welcome to HASHWallet!</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/install/">Installing HWManger in your device</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/scanning/">Scanning your first HASHWallet LINK</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/receivingsending/">Receiving and sending Cryptocurrency</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/settings/">An overview of the HWManager settings</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">HASHWallet Link Card</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/hardwarewalletdescription/">Hardware wallet description</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/nfcantenna/">NFC antenna</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/cardmaintenance/">Card maintenance</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">HW Manager App</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/unlock_and_access/">Unlock and access</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/portfolio_view/">Portfolio view</a></li>
+        
+          
+          
+          <li class="uk-active"><a href="/docs/assets_management/">Assets management</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/trade/">Trade</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/app_settings/">App Settings</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Security & backup</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/esignus_backup_center/">The eSignus backup center</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/duplication_process/">Duplication process</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/privacy/">Privacy</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Supported cryptocurrencies</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href=""></a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Shop</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/orders_shipping/">Orders & Shipping</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/warranty/">Warranty</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Help</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/glossary/">Glossary</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/contact/">Contact & Support</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/faq/">Frequently asked questions</a></li>
+        
+        </ul>
+        
+
+    </div>
+</div>
+
+
+    <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <a class="uk-logo uk-margin-small-bottom" href="/">HASHWallet Docs</a>
+     
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+      
+        <ul class="uk-nav uk-nav-primary uk-margin-top">
+            
+                
+
+                
+
+                
+                    <li><a href="/" >Home</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/docs/installation/" >Docs</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/blog/" >Blog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/changelog-timeline/" >Changelog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-success" href="/contact/" >Contact</a></div></li>
+                
+            
+        </ul>
+
+        <div class="uk-margin-top uk-text-center">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+
+
+
+
+
+
+<div>
+    <a href="https://www.linkedin.com/company/esignus" data-uk-icon="icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    
+
+    
+        
+    
+
+    
+
+    </body>
+
+</html>

@@ -1,5 +1,5 @@
 ---
-title: Contact form (via FormSpree)
+title: Contact & Support
 subtitle: This document covers the setup and options of theme feature described in the doc title
 author: sara
 tags: [setup]

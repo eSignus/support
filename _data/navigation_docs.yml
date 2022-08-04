@@ -2,40 +2,41 @@
   docs:
   - welcome
   - install
-  - setup
-  - addwallets
+  - scanning
+  - receivingsending
   - settings
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
 
-- title: Security
+- title: HASHWallet Link Card
   docs:
-  - portfoliobackup
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+  - hardwarewalletdescription
+  - nfcantenna
+  - cardmaintenance
 
-- title: Customization
+- title: HW Manager App
   docs:
-  - translation
-  - customize
-  - development
-  - sources
+  - unlock_and_access
+  - portfolio_view
+  - assets_management
+  - trade
+  - app_settings
+
+- title: Security & backup
+  docs:
+  - esignus_backup_center
+  - duplication_process
+  - privacy
+
+- title: Supported cryptocurrencies
+  docs:
+  - support
+
+- title: Shop
+  docs:
+  - orders_shipping
+  - warranty
 
 - title: Help
   docs:
-  - support
   - glossary
+  - contact
+  - faq

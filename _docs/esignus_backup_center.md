@@ -1,0 +1,7 @@
+---
+title: The eSignus backup center
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [help, customize]
+---
+
+Customer support is provided through our Envato item page [contact form](/contact) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
