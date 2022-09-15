@@ -2,6 +2,8 @@
 layout: doc
 title: Frequently asked questions
 tags: [help]
+layout: redirected
+redirect_to: /faqs/
 ---
 
 ## What happens if I lose my HASHWallet?

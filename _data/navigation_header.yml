@@ -1,8 +1,6 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Docs
-    url: /docs/welcome/
 
   - title: FAQs
     url: /faqs/

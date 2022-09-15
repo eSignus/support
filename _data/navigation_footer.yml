@@ -1,10 +1,7 @@
 # Footer navigation links
 
 - title: Home
-  url: /
-
-- title: Docs
-  url: /docs/
+  url: /docs/welcome/
 
 - title: Contact
   url: /contact/
