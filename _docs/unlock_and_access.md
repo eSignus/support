@@ -1,18 +1,11 @@
 ---
 title: Unlock and access
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [features]
-author: evan
+tags: [hwmanager-app]
 ---
 
-Then add the following to a page to display featured docs:
-{% raw %}
-```yaml
-{% include featured.html tag="featured" title="Popular Articles" subtitle="Selected featured articles to get you started fast in Jekyll" %}
-```
-{% endraw %}
+You have already registered in the Issuer and the eSignus Backup Center. If this is not true, please visit Setup eSignus Backup Center.
 
-All docs with a `featured` tag will be displayed:
-```yml
-tags: [featured]
-```
+To unlock the HW Manager, you have two options:
+
+- Biometric authentication, in this case, the App will open automatically with biometry.
+- Non-biometric authentication, if you have not habilitated the biometric authentication, you will need to log in using **passwordless access**. You can select email or SMS authentication. You will receive a One Time Password through your chosen method to log in.

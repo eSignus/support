@@ -1,19 +1,12 @@
 ---
 title: Welcome to HASHWallet!
-subtitle: This document covers the setup and options of theme feature described in the doc title
+tags: [settings]
 ---
+HASHWallet is a suite of solutions based on the combination of a manager App and devices in card format that allows people to manage cryptos and access Web3 securely and privately.
 
-Creating your eSignus Backup Center Account
+## HASHWallet has two elements:
 
-Install the dependencies with [Bundler](http://bundler.io/):
+**HW Manager App**
+You can download it at [Google Play](https://www.esignus.com) or [App Store](https://www.esignus.com).
 
-```bash
-bundle install
-```
-
-Run the following to generate your site:
-```bash
-bundle exec jekyll serve
-```
-
-You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+**HW Link card** (Card photo)

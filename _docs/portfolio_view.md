@@ -1,30 +1,34 @@
 ---
 title: Portfolio view
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [features, featured]
-author: evan
+tags: [hwmanager-app]
 ---
 
-Add videos in `_data/videos.yml`:
-```yml
-- title: Jekyll Introduction
-  desc: Overview of the most popular static generator
-  url: https://youtu.be/T1itpPvFWHI
+The first view in the HW Manager is the portfolio view.
 
-- title: Creating a post
-  desc: Lean how to publish your first post in Jekyll
-  url: https://youtu.be/gsYqPL9EFwQ
-```
-Video sources can be YouTube, Vimeo or local:
-```
-video.mp4
-https://www.youtube.com/watch?v=YE7VzlLtp-4
-https://vimeo.com/1084537
-```
+On top, you can see a physical representation of the HASHWallet LINK Card. You can see the Card Name and the total balance in the FIAT coin you selected in the HW Manager settings. (picture) There is also a three points icon (symbol). This icon will always give us access to edition capabilities. If you press it, you can:
 
-Then add the following to a page to display video lightbox boxes:
-{% raw %}
-```yaml
-{% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with Jekyll" %}
-```
-{% endraw %}
+- Edit the card name.
+- Go to the backup portfolio structure page.
+- Go to the request duplicate option.
+- Delete the card from this HW Manager. You can always add it again when needed.
+
+Bellow the LINK Card representation, you can find the following options:
+
+- Add wallet. This will allow you to add a new wallet for the desired coin.
+- Send. This will show you all the wallets with funds. You will need to select one to operate.
+- Receive. In this case, you will have a list of all the visible wallets. You will need to choose one to operate.
+- Buy. This will redirect you to the exchanges that allow buying from HASHWallet. This list is constantly increasing.
+- Sell. This will turn you to the exchanges that enable selling from HASHWallet. This list is growing continuously.
+- Swap. This will redirect you to the exchanges that allow swapping from HASHWallet. This list is constantly increasing.
+
+Bellow the transaction options, you have the wallet organized in creation order, the first up and the last down (picture). You can change this view by pressing the icon in the upper corner of the view (symbol). The portfolio view will switch to a coin view (picture). Inside each coin, we will see all the wallets.
+
+If you select one wallet, the view switches to a list of transactions in the creation order. On top of that, you can use the options to operate with the wallet: send, receive, buy, sell and swap.
+
+In the upper corner of the view, there is a three points icon (symbol). This will permit us to edit or hide the wallet name from the portfolio view.
+Finally, in the bottom line, you will find four options:
+
+- Portfolio
+- Trade
+- Assets
+- Settings

@@ -1,18 +1,9 @@
 ---
 title: Orders & Shipping
-subtitle: This document covers the setup and options of theme feature described in the doc title
-author: john
-tags: [setup]
+tags: [shop]
 ---
 
-Edit copyright notice in `_config.yml`:
-```yaml
-footer:
-    copyright:
-```
+To order a new card, please click over Settings->Order a new card, this will open the shop window where you can buy a new card or a duplicate one,
 
-Set in the navigation links in `_data/navigation_footer.yml`:
-```yaml
-- title: About
-  url: /about/
-```
+- Shipping to the european union: 2 working days
+- Worldwide: 7 working days

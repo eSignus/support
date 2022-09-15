@@ -1,32 +1,8 @@
 ---
-title: Privacy
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [customize]
-author: evan
+title: Privacy and security
+tags: [security]
 ---
 
-### Build process
-Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
-```bash
-npm install
-```
-Enable live browser reload with the following:
-```bash
-bundle exec jekyll s --livereload
-```
+Only the Issuer can identify the user, or at least the address. eSignus, responsible for the Backup Center, knows nothing about the user.
 
-Use the following commands to compile js scripts:
-```bash
-npm run dev
-```
-Compile and minify:
-```bash
-npm run build
-```
-
-### Hooks
-There are four hook inlude files that simplify adding content or scripts in the theme locations:
-- `_includes/hook-head.html`
-- `_includes/hook-pre-closing-body.html`
-- `_includes/hook-pre-closing-body-doc.html`
-- `_includes/hook-post-content-doc.html`
+To log in, you will use a passwordless system. Don't worry about forgetting a password.

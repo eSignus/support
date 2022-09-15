@@ -1,46 +1,43 @@
 ---
 layout: doc
 title: Frequently asked questions
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-author:
-tags: othertag
+tags: [help]
 ---
 
-#### Sections in this article
-{:.no_toc}
-* TOC
-{:toc}
+## What happens if I lose my HASHWallet?
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+No problem, ask for a duplicate from your Issuer. You can find this option directly from the front page. Press over the three pints icon over the representation of your Link Card, and voila, here you have a shortcut to request your duplicate. The Manager will redirect you to the Issuer (after login), and it's done.
 
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
+## What happens if I change or reset my phone?
 
-## Image Lightbox Example
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
+As easy as installing a new Manager App on your new phone. Once installed, identify yourself with your email or phone number, and your Manager is back. Now add your Link Cards. It is no more than 5 minutes.
 
-{% include image.html img="image1.png" style="wide" lightbox="true" alt="Alt for image" caption="Image in lightbox" %}
+## Supported coins?
 
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+The list of supported coins is in Currencies already included, but we have new ones continuously.
 
-## Example Of Code Block
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+## 24/25 words?
 
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ "assets/img/favicon.png" | relative_url }}" >
-  <script src="{{ "/assets/js/main.js" | relative_url }}"></script>
-</head>
-```
+HASHWallet internally uses 24 words as in BIP39 and a PassPhrase stored on your phone, but all of this is transparent for you. You only need to know your email and your phone number.
 
-## Text and Quote
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
+Why do we use words if you do not need them? To be compatible with other manufacturers. This way, you can forget that mesh and come with us.
 
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
+## What will happen when I die?
 
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+If you want heirs for your crypto funds, you must give them a duplicate Card. The next step is for your heirs to get access to your phone line as access to their inheritance.
 
-Etiam in fermentum mi. Sed et tempor felis, eu aliquet nisi. Nam eget ullamcorper arcu. Nunc porttitor nisl a dolor blandit, eget consequat sem maximus. Phasellus lacinia quam porta orci malesuada, vel tincidunt.
+They can not use the Link Card before its initialization, so they will need access to your email (which you might not have given anyone) or phone line. This way, they will only have access to the crypto funds after your death.
+
+## Which crypto can I buy in HW Manager?
+
+Initially, you can buy the next ones:
+
+BTC, ETH, BNB, XLM, SOL, AVAX, DOGE, MATIC (on polygon), LTC, RVN, BCH, DGB, ARDR, IGNIS, XRP, ATOM, TRX, KLAY, USDT, USDC, LINK, UNI, CAKE.
+
+## How To Update Your Email Address For Your eSignus Account?
+
+Go to Settings->Backup center. Click over your email address, and you can change it. Do this only if you have your HW Link Card (if you have several, any of them will suffice) to confirm the operation.
+
+## How to update your phone number on the eSignus Account?
+
+Go to Settings->Backup center. Click over your phone number, and you can change it. Do this only if you have your Link Card (if you have several, any of them will suffice) to confirm the operation.

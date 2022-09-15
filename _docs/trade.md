@@ -1,15 +1,10 @@
 ---
 title: Trade
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
-tags: [features]
-author: alex
+tags: [hwmanager-app]
 ---
 
-To add the following to a page:
-{% raw %}
-```yaml
-{% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
-```
-{% endraw %}
+It is available from the bottom line of the front page and allows us access to three options:
 
-Specifying authors is optional, if not defined all authors will be displayed form `_config.yml` file.
+- Market. If we select this option, we will see the list of all assets sorted by market cap. Please select any of them, and an information page will show you the asset's value and evolution. (picture)
+- Buy. The Manager will redirect you to a third party. Remember you need to copy the final destination of the funds to use during the buying process.
+- Swap. Nowadays, eSignus is using Changelly to swap coins. When you enter the swapping process, you will enter this formulary (picture). Fill it out, review it, and if you agree, you will need to sign the operation with your LINK Card.

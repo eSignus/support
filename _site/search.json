@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "quickstart, installation, wallets",
       "url"      : "/docs/addwallets/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -13,23 +13,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/analytics/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "App Settings",
       "category" : "",
-      "tags"     : "features",
+      "tags"     : "hwmanager-app",
       "url"      : "/docs/app_settings/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Assets management",
       "category" : "",
-      "tags"     : "features, featured",
+      "tags"     : "hwmanager-app",
       "url"      : "/docs/assets_management/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/cardmaintenance/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/changelog/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/docs/comments/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -61,7 +61,23 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/contact/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "Why do we decide on the inclusion order?",
+      "category" : "",
+      "tags"     : "cryptos",
+      "url"      : "/docs/crypto_inclusion/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "Currencies already included",
+      "category" : "",
+      "tags"     : "cryptos",
+      "url"      : "/docs/cryptos_included/",
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -69,7 +85,15 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/customize/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "The Customizer",
+      "category" : "",
+      "tags"     : "security",
+      "url"      : "/docs/customizer/",
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -77,7 +101,7 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/docs/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -85,23 +109,31 @@
       "category" : "",
       "tags"     : "features, featured",
       "url"      : "/docs/duplication_process/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "The eSignus backup center",
+      "title"    : "The eSignus Backup Center",
       "category" : "",
-      "tags"     : "help, customize",
+      "tags"     : "security",
       "url"      : "/docs/esignus_backup_center/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Frequently asked questions",
       "category" : "",
-      "tags"     : "othertag",
+      "tags"     : "help",
       "url"      : "/docs/faq/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "Generation process for new Cards",
+      "category" : "",
+      "tags"     : "security",
+      "url"      : "/docs/generating_new_card/",
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -109,23 +141,71 @@
       "category" : "",
       "tags"     : "help",
       "url"      : "/docs/glossary/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "Hardware wallet description",
+      "title"    : "What is a hardware wallet?",
       "category" : "",
-      "tags"     : "features",
+      "tags"     : "hashwallet-link",
       "url"      : "/docs/hardwarewalletdescription/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "Installing HWManger in your device",
+      "title"    : "How do we include new currencies?",
+      "category" : "",
+      "tags"     : "cryptos",
+      "url"      : "/docs/how_cryptos_are_included/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "How is HASHWallet Link built to meet all the requirements?",
+      "category" : "",
+      "tags"     : "hashwallet-link",
+      "url"      : "/docs/hwlink/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "What does our HASHWallet Link contain?",
+      "category" : "",
+      "tags"     : "hashwallet-link",
+      "url"      : "/docs/hwlink_features/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "HW Manager App",
       "category" : "",
       "tags"     : "settings",
-      "url"      : "/docs/install/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "url"      : "/docs/install_hwmanager/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "eSignus Backup Center",
+      "category" : "",
+      "tags"     : "settings",
+      "url"      : "/docs/intro_esignus_backup_center/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "HASHWallet Link card",
+      "category" : "",
+      "tags"     : "settings",
+      "url"      : "/docs/intro_hwlink_card/",
+      "date"     : "2022-09-15 14:44:22 +0100"
+    } ,
+  
+    {
+      "title"    : "The Issuer",
+      "category" : "",
+      "tags"     : "security",
+      "url"      : "/docs/issuer/",
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -133,23 +213,23 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/nfcantenna/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Orders &amp; Shipping",
       "category" : "",
-      "tags"     : "setup",
+      "tags"     : "shop",
       "url"      : "/docs/orders_shipping/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Portfolio view",
       "category" : "",
-      "tags"     : "features, featured",
+      "tags"     : "hwmanager-app",
       "url"      : "/docs/portfolio_view/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -157,7 +237,7 @@
       "category" : "",
       "tags"     : "security, portfolio, wallets",
       "url"      : "/docs/portfoliobackup/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -165,39 +245,39 @@
       "category" : "",
       "tags"     : "featured",
       "url"      : "/docs/posts/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "Privacy",
+      "title"    : "Privacy and security",
       "category" : "",
-      "tags"     : "customize",
+      "tags"     : "security",
       "url"      : "/docs/privacy/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "Receiving and sending Cryptocurrency",
+      "title"    : "Receiving &amp; sending Cryptocurrency",
       "category" : "",
-      "tags"     : "customize",
+      "tags"     : "settings",
       "url"      : "/docs/receivingsending/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
-      "title"    : "Scanning your first HASHWallet LINK",
+      "title"    : "Scanning your first HASHWallet Link",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "settings",
       "url"      : "/docs/scanning/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "An overview of the HWManager settings",
       "category" : "",
-      "tags"     : "setup",
+      "tags"     : "settings",
       "url"      : "/docs/settings/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -205,7 +285,7 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/sources/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -213,15 +293,15 @@
       "category" : "",
       "tags"     : "features",
       "url"      : "/docs/toc/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Trade",
       "category" : "",
-      "tags"     : "features",
+      "tags"     : "hwmanager-app",
       "url"      : "/docs/trade/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -229,15 +309,15 @@
       "category" : "",
       "tags"     : "customize",
       "url"      : "/docs/translation/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Unlock and access",
       "category" : "",
-      "tags"     : "features",
+      "tags"     : "hwmanager-app",
       "url"      : "/docs/unlock_and_access/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
@@ -245,15 +325,15 @@
       "category" : "",
       "tags"     : "setup",
       "url"      : "/docs/warranty/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } ,
   
     {
       "title"    : "Welcome to HASHWallet!",
       "category" : "",
-      "tags"     : "",
+      "tags"     : "settings",
       "url"      : "/docs/welcome/",
-      "date"     : "2022-08-04 17:22:10 +0100"
+      "date"     : "2022-09-15 14:44:22 +0100"
     } 
   
 ]

@@ -1,7 +1,9 @@
 - title: Getting Started
   docs:
   - welcome
-  - install
+  - install_hwmanager
+  - intro_hwlink_card
+  - intro_esignus_backup_center
   - scanning
   - receivingsending
   - settings
@@ -9,8 +11,8 @@
 - title: HASHWallet Link Card
   docs:
   - hardwarewalletdescription
-  - nfcantenna
-  - cardmaintenance
+  - hwlink
+  - hwlink_features
 
 - title: HW Manager App
   docs:
@@ -22,13 +24,17 @@
 
 - title: Security & backup
   docs:
+  - generating_new_card
+  - issuer
+  - customizer
   - esignus_backup_center
-  - duplication_process
   - privacy
 
 - title: Supported cryptocurrencies
   docs:
-  - support
+  - how_cryptos_are_included
+  - crypto_inclusion
+  - cryptos_included
 
 - title: Shop
   docs:
