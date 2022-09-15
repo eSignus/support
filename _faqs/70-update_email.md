@@ -1,8 +1,6 @@
 ---
-title: Which crypto can I buy in HW Manager?
+title: How To Update Your Email Address For Your eSignus Account?
 categories: [faq]
 ---
 
-Initially, you can buy the next ones: 
-
-BTC, ETH, BNB, XLM, SOL, AVAX, DOGE, MATIC (on polygon), LTC, RVN, BCH, DGB, ARDR, IGNIS, XRP, ATOM, TRX, KLAY, USDT, USDC, LINK, UNI, CAKE.
+Go to Settings->Backup center. Click over your email address, and you can change it. Do this only if you have your HW Link Card (if you have several, any of them will suffice) to confirm the operation.
