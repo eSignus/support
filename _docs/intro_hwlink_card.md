@@ -2,7 +2,7 @@
 title: HASHWallet Link card
 tags: [settings]
 ---
-HW Link card is the fusion of a soft wallet (its capability to use it as software) and a cold wallet because your keys are stored offline, and nobody can hack it externally. Moreover, with HW Link, phishing is not feasible. You can not tell anyone your recovery words if you do not know them. Finally, the most impressive achievement is that you do not need to worry about losing your device or the recovery system. You, and only you, can always recover your keys.
+**HW Link card** is the fusion of a soft wallet (its capability to use it as software) and a cold wallet because your keys are stored offline, and nobody can hack it externally. Moreover, with HW Link, phishing is not feasible. You can not tell anyone your recovery words if you do not know them. Finally, the most impressive achievement is that you do not need to worry about losing your device or the recovery system. You, and only you, can always recover your keys.
 
 So, let's repeat it in case you feel something is not possible. Inside the HASHWallet ecosystem, you operate as easy as a soft wallet, with the security of a cold wallet. Nobody can steal your keys, but you can always recover them. Yes, this is incredible but true.
 Simple, the magic is inside.
@@ -25,7 +25,7 @@ The adding process is different if the card is already initialized or not.
 
 ### New card
 
-A new card must initialize and generate the master seed during the process. This master seed is randomly generated inside the Secure Element and will never leave the card. With this process, you can recover your card if needed, but nobody else canknows. This process is detailed in Scanning your first HASHWallet LINK
+A new card must initialize and generate the master seed during the process. This master seed is randomly generated inside the Secure Element and will never leave the card. With this process, you can recover your card if needed, but nobody else can. This process is detailed in [Scanning your first HASHWallet LINK](/docs/scanning/)
 
 ### Already initialized card
 

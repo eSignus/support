@@ -6,6 +6,6 @@ HW Manager is an App allowing users to securely and privately manage crypto asse
 
 ## Installing HW Manager
 
-After downloading HW Manager App from [App Store](https://www.esignus.com) or [Google Play](https://www.esignus.com), it is necessary to register in the eSignus Backup Center to unlock the App and have access to the vault, and this will allow you to operate securely with your HASHWallet Link card.
+After downloading HW Manager App from [App Store](https://www.esignus.com) or [Google Play](https://www.esignus.com), it is necessary to register in the eSignus Backup Center to **unlock the App and have access to the vault**, and this will allow you to operate securely with your HASHWallet Link card.
 
 It is essential to know that you will use the NFC antenna of the phone to communicate with the HW Link card, so it is necessary to keep it active during usage.

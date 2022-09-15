@@ -20,8 +20,9 @@ The encryption and decryption happen inside your Link Card using the internal AE
 
 ### Scan card
 
-It is another way to add a new Card to your portfolio. It can be a new Card or an initialized Card. After touching over Scan Card, the HW Manager will wait till you put your Card next to the phone and hold it. The process is the same as in Add your HASHWallet Link to the HW Manager App.
-Order a new card
+It is another way to add a new Card to your portfolio. It can be a new Card or an initialized Card. After touching over Scan Card, the HW Manager will wait till you put your Card next to the phone and hold it. The process is the same as in [Add your HASHWallet Link to the HW Manager App](/docs/scanning/).
+
+### Order a new card
 
 You can buy a new Card or a duplicate one. The Recovery Seed and CardId will be the same as your previous Card if you select a duplicate Card and different if you choose a new Card.
 

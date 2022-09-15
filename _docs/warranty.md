@@ -1,63 +1,32 @@
 ---
-title: Warranty
-subtitle: This document covers the setup and options of theme feature described in the doc title
-author: sara
-tags: [setup]
+title: Warranty and refund policy
+tags: [security]
 ---
 
-Set in the main navigation links in `_data/navigation_header.yml`:
+## Warranty
 
-```yaml
-  - title: About
-    url: /about/
-```
+Thank you for your interest in the products and services of eSignus.
 
-To add a button to navigation use:
-```yaml
-  - title: Contact
-    url: /contact/
-    button: success
-```
+This Limited Warranty applies to HW Cards.
 
-All available buttons:
-```yaml
-  - title: Changelog
-    url: /contact/
-    button: default
+This Limited Warranty covers any defects in material or workmanship under normal use during the Warranty Period. During the Warranty Period, eSignus  will replace, at no charge, HW Cards that prove defective because of improper material or workmanship, under normal use and maintenance.
 
-  - title: Contact
-    url: /contact/
-    button: primary
+### What will we do to correct problems?
 
-  - title: Changelog
-    url: /contact/
-    button: secondary
+eSignus will replace the HW Card at no charge, and will send you a new one.
 
-  - title: Contact
-    url: /contact/
-    button: danger
+### How long does the coverage last?
 
-  - title: Changelog
-    url: /contact/
-    button: success
+The Warranty Period for HW Cards purchased from eSignus is 2 years from the date of purchase.
 
-  - title: Contact
-    url: /contact/
-    button: warning
+### What does this limited warranty not cover?
 
-  - title: Changelog
-    url: /contact/
-    button: primary-outline
+This Limited Warranty does not cover any problem that is caused by  conditions, malfunctions or damage not resulting from defects in material or workmanship
 
-  - title: Contact
-    url: /contact/
-    button: danger-outline
+### What do you have to do?
 
-  - title: Changelog
-    url: /contact/
-    button: success-outline
+To obtain warranty service, you must first contact us to determine the problem and the most appropriate solution for you.
 
-  - title: Contact
-    url: /contact/
-    button: warning-outline
-```
+## Refund policy
+
+Your item must be unused and in the same condition that you received it. The item must be in the original packaging. To complete your return, we require a receipt or proof of purchase. Only regular priced items may be refunded, sale items cannot be refunded.
