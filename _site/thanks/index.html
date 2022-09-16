@@ -141,7 +141,7 @@ function searchResults(form) {
                 <div class="uk-navbar-left">
                     <a class="uk-navbar-item uk-logo uk-visible@m" href="/docs/welcome/">HASHWallet Docs</a>
                     
-                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Docs</span></a>
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span data-uk-navbar-toggle-icon></span></a>
                     
 
                     <ul class="uk-navbar-nav uk-visible@m">
@@ -166,7 +166,9 @@ function searchResults(form) {
                         
                             <div>
                                 <a id="search-navbar-toggle" class="uk-navbar-toggle" uk-search-icon href="#"></a>
-                                <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
+                                <div style="
+                                left: 0 !important;
+                                max-width: calc(100% - 50px) !important;" class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
                                     <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
                                         <input id="search-navbar" class="uk-search-input" type="search" placeholder="Search for answers" autofocus autocomplete="off">
                                     </form>
@@ -197,10 +199,6 @@ function searchResults(form) {
                             
                         
                     </ul>
-
-                    
-                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
-                    
 
                 </div>
             </div>
