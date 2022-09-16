@@ -9,9 +9,9 @@ The process is simple for the user but complex internally. We will describe what
 
 The user has logged into the eSignus Backup Center Now you will press the SCAN CARD button and place the card as shown on the screen. The position depends on the smartphone. In the following images, we can see the usual place for android phones and iPhones.
 
-![Scanning](https://uc5a89db489904258a29803b7cd1.dl.dropboxusercontent.com/cd/0/inline/BtBpoMhj0OBg0fQI4CZnksdPqiTtGF8IegcDpztQDQ1LFqv887tuNmrrpugBHoliTERNhTM7K4TRAL3C_HvYf0ecp6Gf_h8lDqPESGaV9Q_zxc2xoDYLWA9ty6XqSqzeteHVcUOPECRIEGYZ_AUzBV2BOfDLOb4hcf6EB-ypY3LaNw/file#)
+![Scanning](https://www.dropbox.com/s/s1gk17o731d77w8/NFC_android.jpg?raw=1)
 
-![Scanning](https://ucf4cbec683beb953e2bc21c2ed1.dl.dropboxusercontent.com/cd/0/inline/BtD0KaKWV0WCgH8vGbDHX6Sk7CsYATSaOD1ENl-goEE-mS1D9A2C9A6Hva5Hl81WTfNlGycxSy_wWWlxtZw0-fm-awHvJ46UyXzJ-hRoWFDI9Th7rBngTzBJPDaxswQD3uhjl6XEtfavh0_eHGqY7I8lhL-C2ARCiA9-IJvAadJwuQ/file#)
+![Scanning](https://www.dropbox.com/s/bahd1n4r2cwf4qc/NFC_ios.jpg?raw=1)
 
 The next step is to remove the card while the following image appears on the screen. Now we will need to put the card again close to the phone and remove it when the Apps require us to do so.
 
