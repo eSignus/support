@@ -23,8 +23,6 @@ You already have your wallet. Now you can use it for the next step.
 
 The answer is yes, you can have a wallet without limits, but nowadays, we do not let create a new wallet address without some transaction in the previous ones.
 
-(Here, we will add the images)
-
 ## Sending cryptocurrency
 
 The sending process starts as the receiving one, but you must press the send button. Now the following screen will appear.
@@ -38,4 +36,3 @@ The sending process starts as the receiving one, but you must press the send but
 - Place your Card close to the phone and hold it.
 
 All is done; congratulations.
-(Here, we will add the images)

@@ -4,6 +4,8 @@ tags: [settings]
 ---
 **HW Link card** is the fusion of a soft wallet (its capability to use it as software) and a cold wallet because your keys are stored offline, and nobody can hack it externally. Moreover, with HW Link, phishing is not feasible. You can not tell anyone your recovery words if you do not know them. Finally, the most impressive achievement is that you do not need to worry about losing your device or the recovery system. You, and only you, can always recover your keys.
 
+![HWLink](https://uc5b8a0fee7a07e910582fe5f298.dl.dropboxusercontent.com/cd/0/inline/BtARWxgMR77F3Lq-8D2es7H3Kr69vEeWZ8i9DibgIHUMwm5P4ZXw7gZ8xzAuBbVJaVl2nk4xS1LoYi9aCWu-ekIEHzSdGjW5xQ_lscJ7mzSiHGrP3jmzvus3_cRybRZNHd9WpdU5qr4L9kF161ArqkgwA0CdKmTLgkdhWbtwCJqD6A/file#)
+
 So, let's repeat it in case you feel something is not possible. Inside the HASHWallet ecosystem, you operate as easy as a soft wallet, with the security of a cold wallet. Nobody can steal your keys, but you can always recover them. Yes, this is incredible but true.
 Simple, the magic is inside.
 
@@ -19,8 +21,6 @@ Once the application is installed, to add a card, you have the following options
 - Taping on the card that is reflected empty in the Portfolio view.
 - From "Settings" taping on "Scan card."
 
-Include the images here.
-
 The adding process is different if the card is already initialized or not.
 
 ### New card
@@ -30,4 +30,3 @@ A new card must initialize and generate the master seed during the process. This
 ### Already initialized card
 
 After selecting the SCAN CARD button, you need to place your card close to the phone and hold it until the HW Manager indicates it to you. We will need to repeat the process to receive the previous backup from the eSignus Backup Center. You have added your card, and all the information is on the HW Manager.
-Include the images here.
