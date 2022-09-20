@@ -13,8 +13,8 @@ In the Security & Backup section, we can review the recovery process. It was des
 
 But how do we facilitate an inheritance? Since the recovery system has two parts: 
 
-- One that contains the Recovery Seed (maintained by the Issuer of the card) 
-- Another that has the Recovery Key (maintained by the Vault manager). We can leave one of them in a notary as part of the inheritance and the other to our heirs. The funds can only be accessed if we pass away.
+- One that contains the Recovery Seed (maintained by the Issuer of the card). We will give a card duplicate to our(s) heir(s).
+- Another that has the Recovery Key (maintained by the Vault manager). To retreive this second part a user needs to have access to the email account or the phone number. We can leave the phone number to our heirs as part of the inheritance. The funds can only be accessed if we pass away.
 
 ### Safety forever
 
