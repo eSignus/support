@@ -3,7 +3,7 @@ title: Scanning your first HASHWallet Link
 tags: [settings]
 ---
 
-The process is simple for the user but complex internally. We will describe what hAppens from both sides.
+The process is simple for the user but complex internally. We will describe what happens from both sides.
 
 ## User experience
 
