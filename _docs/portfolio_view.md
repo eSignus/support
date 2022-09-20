@@ -18,7 +18,7 @@ Bellow the LINK Card representation, you can find the following options:
 - Send. This will show you all the wallets with funds. You will need to select one to operate.
 - Receive. In this case, you will have a list of all the visible wallets. You will need to choose one to operate.
 - Buy. This will redirect you to the exchanges that allow buying from HASHWallet. This list is constantly increasing.
-- Sell. This will turn you to the exchanges that enable selling from HASHWallet. This list is growing continuously.
+- Sell. This will show you the exchanges that enable selling from HASHWallet. This list is growing continuously.
 - Swap. This will redirect you to the exchanges that allow swapping from HASHWallet. This list is constantly increasing.
 
 Bellow the transaction options, you have the wallet organized in creation order, the first up and the last down (picture). You can change this view by pressing the icon in the upper corner of the view (symbol). The portfolio view will switch to a coin view (picture). Inside each coin, we will see all the wallets.
