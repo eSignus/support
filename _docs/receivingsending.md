@@ -30,7 +30,7 @@ The sending process starts as the receiving one, but you must press the send but
 - Introduce the destination address. To do that, you can
   - Scan the QR code if the receiving person is close to you.
   - Copy the destination address from an email, WhatsApp, Telegram, or whatever.
-  - Press Add amount
+- Press Add amount
 - A numeric keyboard appears; now you must introduce the amount and press continue.
 - Now you can check if the operation is correct and the network fees. If everything is ok, press ACCEPT WITH HW LINK.
 - Place your Card close to the phone and hold it.
