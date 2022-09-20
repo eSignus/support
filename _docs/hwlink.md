@@ -5,7 +5,7 @@ tags: [hashwallet-link]
 
 ### Agility in its use
 
-HASHWallet executes orders from the HW Manager. We have designed an App built to be simple. Therefore, it is precisely the same as operating with a soft wallet or even with an exchange. The only difference is that the transaction signature is done on the card.
+HASHWallet executes orders from the HW Manager. We have designed an App to be simple. Therefore, it is precisely the same as operating with a soft wallet or even with an exchange. The only difference is that the transaction signature is done on the card.
 
 ### Simplicity in its recovery and in its inheritance
 
