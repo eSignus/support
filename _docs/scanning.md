@@ -23,7 +23,7 @@ We will explain step by step the complete initialization process below.
 
 ### First step
 
-You must place the card near the phone; when the NFC antenna detects it, the HW manager star running the following process:
+You must place the card near the phone; when the NFC antenna detects it, the HW manager starts running the following process:
 
 - Ensures the card is correct.
 - Asks the card for an encryption public key.
@@ -33,7 +33,7 @@ Now you have to separate the card from the NFC antenna on the phone to finish th
 
 ### Second step
 
-To start step two, you must place the card near the phone again, and when the NFC antenna detects it, the HW manager star running the following process:
+To start step two, you must place the card near the phone again, and when the NFC antenna detects it, the HW manager starts running the following process:
 
 - Asks the HW Link card to generate the seed randomly and calculate the Recovery Key.
 - HW Manager randomly generates a PassPhrase and sends it to HW Link card.
@@ -48,7 +48,7 @@ Finally, the HW Manager sends the RecoveryInfo file and the IssuerInfo to the Se
 
 ### Third step
 
-To start step three, you must place the card near the phone again, and when the NFC antenna detects it, the HW manager star running the following process:
+To start step three, you must place the card near the phone again, and when the NFC antenna detects it, the HW manager starts running the following process:
 
 - HW Manager asks HW Link card to erase Recovery Seed, Recovery Key, UserId, and PassPhrase.
 - HW Manager asks HW Link card to store the InitOk state.
