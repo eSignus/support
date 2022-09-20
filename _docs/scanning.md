@@ -7,7 +7,7 @@ The process is simple for the user but complex internally. We will describe what
 
 ## User experience
 
-The user has logged into the eSignus Backup Center Now you will press the SCAN CARD button and place the card as shown on the screen. The position depends on the smartphone. In the following images, we can see the usual place for android phones and iPhones.
+The user has logged into the eSignus Backup Center. Now you will press the SCAN CARD button and place the card as shown on the screen. The position depends on the smartphone. In the following images, we can see the usual place for android phones and iPhones.
 
 ![Scanning](https://www.dropbox.com/s/s1gk17o731d77w8/NFC_android.jpg?raw=1)
 
