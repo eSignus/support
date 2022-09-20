@@ -3,7 +3,7 @@ title: What is a hardware wallet?
 tags: [hashwallet-link]
 ---
 
-We can find definitions in many places, but in summary, we can say that it is a store of our wallets' private and public keys. We can seven say that a paper wallet, where we write down our keys, is a hardware wallet, the most primitive.
+We can find definitions in many places, but in summary, we can say that it is a store of our wallets' private and public keys. We can even say that a paper wallet, where we write down our keys, is a hardware wallet, the most primitive.
 
 ### What do we want from a Hardware wallet?
 
