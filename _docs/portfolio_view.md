@@ -5,7 +5,7 @@ tags: [hwmanager-app]
 
 The first view in the HW Manager is the portfolio view.
 
-On top, you can see a physical representation of the HASHWallet LINK Card. You can see the Card Name and the total balance in the FIAT coin you selected in the HW Manager settings. (picture) There is also a three points icon (symbol). This icon will always give us access to edition capabilities. If you press it, you can:
+On top, you can see a physical representation of the HASHWallet LINK Card. You can see the Card Name and the total balance in the FIAT coin you selected in the HW Manager settings. There is also a three points icon (symbol). This icon will always give us access to edition capabilities. If you press it, you can:
 
 - Edit the card name.
 - Go to the backup portfolio structure page.
