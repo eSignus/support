@@ -15,9 +15,7 @@ Download HW Manager from App Store or Google Play. Once you have installed the A
 
 ## How to add your HW Link card to the HW Manager App.
 
-Once the application is installed, to add a card, you have the following options:
-
-- After the registration process in the eSignus Backup Center, you will be able to scan a card to add it to the HW Manager.
+Once the application is installed, to add a card, you need to register. After the registration process in the eSignus Backup Center, you will be able to scan a card to add it to the HW Manager.
 - Taping on the card that is reflected empty in the Portfolio view.
 - From "Settings" taping on "Scan card."
 
