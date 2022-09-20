@@ -34,7 +34,8 @@ For security reasons, once a card is added to the eSignus Backup Center, it will
 ## Email address verification code
 
 The HW Manager App will ask you for an email address. After that, you will receive a verification code in the email to confirm it is yours.
-Phone number verification code
+
+## Phone number verification code
 
 The HW Manager App will ask for your phone number. After that, you will receive an SMS to confirm it is yours.
 
