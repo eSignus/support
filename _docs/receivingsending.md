@@ -14,7 +14,7 @@ The calculation process is:
 - The user presses the Add Wallet button.
 - Now, the user can see the coins list. You can scroll through the list or use the search option to select the coin for the wallet.
 - A name for the wallet appears automatically, but you can change it now or at any moment.
-- Finally, as everything happens inside the card, the final step is to put the card close to the smartphone NFC anthenna, and through NFC communication, the HW Manager App will ask the card for this calculation.
+- Finally, as everything happens inside the card, the final step is to put the card close to the smartphone NFC antenna, and through NFC communication, the HW Manager App will ask the card for this calculation.
 - The public key is sent to the HW Manager so you can see and use it.
 
 You already have your wallet. Now you can use it for the next step.
