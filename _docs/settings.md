@@ -10,7 +10,7 @@ Let’s have a look over the settings. To start here, we have a figure with all 
 
 Inside the backup center, you can see a glimpse of the email and phone number you have registered. This is important; they are critical to the recovery system. As you can see in the following screenshot, you can see only the first and last characters to avoid any other than you can identify both of them.
 
-Bellow is the registered phone number. You can find the portfolio backups for every added Card. Once you enter one of the cards, you can upload or download the portfolio structure. This is one of the differential characteristics of HASHWallet. If you need to install the HW Manager App on another phone or if you are recovering your Card from a duplicate, we can have the same portfolio structure you uploaded.
+Bellow the registered phone number you can find the portfolio backups for every added Card. Once you enter one of the cards, you can upload or download the portfolio structure. This is one of the differential characteristics of HASHWallet. You can have the same portfolio structure you uploaded if you need to install the HW Manager App on another phone or if you are recovering your Card from a duplicate.
 
 ### Portfolio backup
 
