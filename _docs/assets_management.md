@@ -15,7 +15,7 @@ Now you need to define the transaction. These are the present options:
 - Buy. This will redirect you to the exchanges that allow buying from HASHWallet. This list is constantly increasing. Each partner behaves differently.
 - Swap. This will redirect you to the exchanges that allow swapping from HASHWallet. This list is constantly increasing. Each partner behaves differently.
 
-We have added a history graph for each wallet (this does not apply to the testnet wallets). You can see a icon in the upper right corner, just to the left of the three points icon. If you press it, you will see the evolution of the portfolio value (in the FIAT coin configured).
+We have added a historical graph for each wallet (this does not apply to the testnet wallets). You can see a icon in the upper right corner, just to the left of the three points icon. If you press it, you will see the evolution of the portfolio value (in the FIAT coin configured).
 Another way to see all your wallets, even those hidden, is to press over Assets on the bottom line. Here if you slide any wallet.
 
 - To the right, you will go to the send page
