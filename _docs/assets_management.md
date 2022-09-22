@@ -3,7 +3,7 @@ title: Assets management
 tags: [hwmanager-app]
 ---
 
-As we have seen in the previous paragraph, we have mainly two options to start asset management.
+As we have seen in the previous paragraph, we have mainly two options to start asset management:
 
 - Choose the type of transaction from the portfolio view, then select the wallet.
 - Choose the wallet from the portfolio view, then select the transaction.
