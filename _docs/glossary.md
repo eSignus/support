@@ -26,13 +26,17 @@ When a users needs to duplicate a HASWHallet Link Card she will need a pre-initi
 ## Recovery Seed
 
 This is a random 256 bits number generated in the customizer HSM. This value and the Card id are the only values included in a pre-initialized HASWHallet Link Card.
+
 When you buy a new card this values are random, but when you buy a duplicate one this values are recovered from the Key Management System. Remember this values have no relation with your wallets if the Recovery Key is not present.
 
 ## PassPhrase
 
 What happens if you lose your HASWHallet Link Card and someone finds it (or they stole it from you)? That card is useless without the passphrase.
+
 Where is the passphrase? It is stored in the Manager App, never in the HASWHallet Link Card.
+
 Do I need to remember the passphrase? No, you do not even need to know the passphrase exists.
+
 What happens if I spawn a new instance of the Manager App? The passphrase downloads from the eSignus Backup Center transparently (AES encrypted). It is decrypted within the secure element and passed to the Manager application.
 
 ## Public encryption key
