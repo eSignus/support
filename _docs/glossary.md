@@ -19,7 +19,7 @@ It is the root seed of the deterministic wallet structure. From this seed and th
 
 ## Recovery Key
 
-The recovery Key is calculated from two random values, the master seed and the recovery key. This calculations only happens once, in the initialization process. During this initialization process the HW Link Card encrypts the recovery key and stores it in the eSignus Backup Center.
+The recovery Key is calculated from two random values, the master seed and the recovery seed. This calculations only happens once, in the initialization process. During this initialization process the HW Link Card encrypts the recovery key and stores it in the eSignus Backup Center.
 
 When a users needs to duplicate a HW Link Card she will need a pre-initialized card (containing the recovery seed and the card Id) and the recovery key (obtained from the eSignus account).
 
