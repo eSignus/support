@@ -4,6 +4,8 @@ tags: [settings]
 ---
 Let’s have a look over the settings. To start here, we have a figure with all the options. The options are divided into parts.
 
+![HASHWallet Manager Settings](/assets/img/Settings.jpg)
+
 ## Manage Cards
 
 ### Backup center
@@ -12,11 +14,15 @@ Inside the backup center, you can see a glimpse of the email and phone number yo
 
 Bellow the registered phone number you can find the portfolio backups for every added Card. Once you enter one of the cards, you can upload or download the portfolio structure. This is one of the differential characteristics of HASHWallet. You can have the same portfolio structure you uploaded if you need to install the HW Manager App on another phone or if you are recovering your Card from a duplicate.
 
+![eSignus Backup Center](/assets/img/Backup%20center.jpg)
+
 ### Portfolio backup
 
 eSignus stores an encrypted copy of the generated wallets and their names when you upload the portfolio structure. This structure is simple, only the generation number and last name. And from this structure, nobody can know how many wallets you have and if there are funds or not. All the portfolio backups have the same size and are encrypted.
 
 The encryption and decryption happen inside your Link Card using the internal AES key.
+
+![HASHWallet Manager porfolio backup](/assets/img/Backup%20center%202.jpg)
 
 ### Scan card
 

@@ -9,13 +9,13 @@ The process is simple for the user but complex internally. We will describe what
 
 The user has logged into the eSignus Backup Center. Now you will press the SCAN CARD button and place the card as shown on the screen. The position depends on the smartphone. In the following images, we can see the usual place for android phones and iPhones.
 
-![Scanning](https://www.dropbox.com/s/s1gk17o731d77w8/NFC_android.jpg?raw=1)
-
-![Scanning](https://www.dropbox.com/s/bahd1n4r2cwf4qc/NFC_ios.jpg?raw=1)
-
 The next step is to remove the card while the following image appears on the screen. Now we will need to put the card again close to the phone and remove it when the Apps require us to do so.
 
 Voila, the card is included.
+
+![HASHWallet Link Scanning Android](/assets/img/NFC_android.jpeg)
+
+![HASHWallet Link Scanning iOS](/assets/img/NFC_ios.jpeg)
 
 ## Internal process
 

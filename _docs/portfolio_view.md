@@ -12,6 +12,8 @@ On top, you can see a physical representation of the HASHWallet LINK Card. You c
 - Go to the request duplicate option.
 - Delete the card from this HW Manager. You can always add it again when needed.
 
+![HASHWallet Manager Portfolio](/assets/img/Portfolio%20view.jpg)
+
 Bellow the LINK Card representation, you can find the following options:
 
 - Add wallet. This will allow you to add a new wallet for the desired coin.
@@ -21,14 +23,23 @@ Bellow the LINK Card representation, you can find the following options:
 - Sell. This will show you the exchanges that enable selling from HASHWallet. This list is growing continuously.
 - Swap. This will redirect you to the exchanges that allow swapping from HASHWallet. This list is constantly increasing.
 
-Bellow the transaction options, you have the wallet organized in creation order, the first up and the last down (picture). You can change this view by pressing the icon in the upper corner of the view (symbol). The portfolio view will switch to a coin view (picture). Inside each coin, we will see all the wallets.
+![HASHWallet Manager Portfolio](/assets/img/Portfolio%20view%202.jpg)
+
+Bellow the transaction options, you have the wallet organized in creation order, the first up and the last down. You can change this view by pressing the icon in the upper corner of the view (![icon](/assets/img/DESCRIPTION_hw-donut_char%202.png)). The portfolio view will switch to a coin view. Inside each coin, we will see all the wallets.
+
+![HASHWallet Manager Portfolio](/assets/img/Portfolio%20view%203.jpg)
 
 If you select one wallet, the view switches to a list of transactions in the creation order. On top of that, you can use the options to operate with the wallet: send, receive, buy, sell and swap.
 
-In the upper corner of the view, there is a three points icon (symbol). This will permit us to edit or hide the wallet name from the portfolio view.
+In the upper corner of the view, there is a three points icon (![icon](/assets/img/NAVIGATION_hw-more_vert%202.png)). This will permit us to edit or hide the wallet name from the portfolio view.
+
+![HASHWallet Manager Portfolio](/assets/img/Portfolio%20view%204.jpg)
+
 Finally, in the bottom line, you will find four options:
 
 - Portfolio
 - Trade
 - Assets
 - Settings
+
+![HASHWallet Manager Portfolio](/assets/img/Portfolio%20view%205.jpg)
